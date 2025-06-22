@@ -60,3 +60,7 @@ btn.addEventListener('click', () => {
      newPass.innerText=`${generatedPassword}`
     // console.log('New PassWord Generate')
 })
+
+console.log("hello world ");
+console.log("hello world 1234567890.....................................");
+
