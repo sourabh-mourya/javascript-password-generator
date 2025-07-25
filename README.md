@@ -10,7 +10,7 @@ Adjustable password length (6-20 characters)
 Customizable character set (uppercase, lowercase, numbers, symbols)
 
 Real-time slider to set password length 
-
+ 
 Instant password generation with a single click
 
 Tech Stack
