@@ -16,3 +16,4 @@ Instant password generation with a single click
 Tech Stack
 
 Frontend: HTML, CSS, JavaScrip
+ 
